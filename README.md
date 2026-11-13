@@ -14,6 +14,42 @@ JollyPhonics makes early childhood education engaging and fun! Built entirely in
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <table border="1" cellpadding="8" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="WhatsApp%20Image%202026-11-13%20at%201.03.01%20PM.jpeg" width="150" alt="JollyPhonics home screen"><br>
+        <b>Home Screen</b><br>
+        <sub>Friendly welcome screen with quick access to learning and saved recordings.</sub>
+      </td>
+      <td align="center">
+        <img src="WhatsApp%20Image%202026-11-13%20at%201.03.01%20PM%20(1).jpeg" width="150" alt="Alphabet learning screen"><br>
+        <b>Alphabet Grid</b><br>
+        <sub>Colorful A–Z cards help children explore letters and example words.</sub>
+      </td>
+      <td align="center">
+        <img src="WhatsApp%20Image%202026-11-13%20at%201.03.01%20PM%20(2).jpeg" width="150" alt="Phonics sound screen"><br>
+        <b>Phonics Sound</b><br>
+        <sub>Shows the selected letter, its phonics sound, illustration, and audio controls.</sub>
+      </td>
+      <td align="center">
+        <img src="WhatsApp%20Image%202026-11-13%20at%201.03.02%20PM.jpeg" width="150" alt="Voice recorder screen"><br>
+        <b>Voice Recorder</b><br>
+        <sub>Children can record, replay, and save their own pronunciation.</sub>
+      </td>
+      <td align="center">
+        <img src="WhatsApp%20Image%202026-11-13%20at%201.03.02%20PM%20(1).jpeg" width="150" alt="My recordings screen"><br>
+        <b>My Recordings</b><br>
+        <sub>Saved recordings can be played again or deleted from the recordings list.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## ✨ Features
 
 - **Interactive A–Z Alphabet Learning**: Displayed in an attractive 3-column `GridView` with colorful pastel letter cards representing uppercase and lowercase letters.
