@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Child-friendly Pastel Palette -->
+    <color name="sky_blue">#E0F7FA</color>
+    <color name="sky_blue_dark">#4DD0E1</color>
+    <color name="sunshine_yellow">#FFFDE7</color>
+    <color name="sunshine_yellow_dark">#FFEE58</color>
+    <color name="mint_green">#E8F5E9</color>
+    <color name="mint_green_dark">#81C784</color>
+    <color name="coral_pink">#FCE4EC</color>
+    <color name="coral_pink_dark">#F06292</color>
+    <color name="lavender">#EDE7F6</color>
+    <color name="lavender_dark">#9575CD</color>
+    <color name="peach">#FFF3E0</color>
+    <color name="peach_dark">#FFB74D</color>
+
+    <color name="app_background">#FFFDE7</color>
+    <color name="primary_color">#FF7043</color>
+    <color name="primary_dark">#F4511E</color>
+    <color name="accent_color">#26A69A</color>
+    <color name="text_dark">#37474F</color>
+</resources>

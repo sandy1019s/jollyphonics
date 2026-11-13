@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardLetter"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:id="@+id/layoutLetterBg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="#E0F7FA"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tvLetterPair"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A a"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#37474F" />
+
+        <TextView
+            android:id="@+id/tvWordMini"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apple 🍎"
+            android:textSize="13sp"
+            android:textColor="#546E7A"
+            android:layout_marginTop="4dp" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

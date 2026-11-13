@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JollyPhonics</string>
+    <string name="welcome_title">Let\'s Learn Phonics!</string>
+    <string name="welcome_subtitle">Explore letters and discover their sounds.</string>
+    <string name="start_learning">START LEARNING</string>
+    <string name="my_recordings">MY RECORDINGS</string>
+    <string name="learn_abc">Learn Alphabets</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="play_letter_sound">🔊 Play Letter Sound</string>
+    <string name="play_example_word">🔊 Play Example Word</string>
+    <string name="record_my_voice">Record My Voice</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="play_recording">Play Recording</string>
+    <string name="save_recording">Save Recording</string>
+    <string name="say_the_sound">Say the Sound!</string>
+</resources>
